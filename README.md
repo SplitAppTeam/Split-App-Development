@@ -2,7 +2,7 @@
 The weekly development process of Split App
 
 ## Week 1
-User Stories:
+#### User Stories:
 - Goal: Initialize the project from scratch.
 
 - [x] User sees app icon in home screen and styled launch screen.
@@ -12,3 +12,7 @@ User Stories:
 - [x] Set up the backend server.
 - [x] design app icons 
 - [x] Add Parse client to an Xcode project
+
+#### GIF Walkthrough
+
+![SplitApp-week1](https://user-images.githubusercontent.com/75382121/162537395-a80f61f6-a1ed-423e-a8bd-9f9c7e090b88.gif)
