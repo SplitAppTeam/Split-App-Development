@@ -7,8 +7,8 @@ User Stories:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] Set up the sign up and sign in storyboard.
-- [ ] User can sign up to create a new account.
-- [ ] User can log in.
+- [x] User can sign up to create a new account.
+- [x] User can log in.
 - [x] Set up the backend server.
 - [x] design app icons 
 - [x] Add Parse client to an Xcode project
